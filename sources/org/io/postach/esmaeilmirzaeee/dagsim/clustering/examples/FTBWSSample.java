@@ -20,7 +20,7 @@ import java.util.Calendar;
 import java.util.LinkedList;
 import java.util.List;
 
-public class Sadeqi {
+public class FTBWSSample {
     public static void main(String[] args) {
         try {
             // First step: Initialize the WorkflowSim package.
